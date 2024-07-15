@@ -11,19 +11,9 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-> Status do Projeto: :heavy_check_mark: :warning: (concluido, em desenvolvimento, etc)
+> Status do Projeto: :heavy_check_mark: (concluido)
 
-### Tópicos 
 
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
-
-:small_blue_diamond: [Funcionalidades](#funcionalidades)
-
-:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
-
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
-
-... 
 
 Insira os tópicos do README em links para facilitar a navegação do leitor
 
